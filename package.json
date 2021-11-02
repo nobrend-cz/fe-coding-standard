@@ -1,0 +1,11 @@
+{
+  "name": "fe-coding-standard",
+  "version": "1.0.2",
+  "dependencies": {
+    "eslint": "^5.16.0",
+    "stylelint": "^10.1.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.8.0"
+  }
+}
