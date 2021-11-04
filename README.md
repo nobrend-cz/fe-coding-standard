@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-npm i git+https://github.com/nobrend-cz/fe-coding-standard.git --save-dev
+npm i fe-coding-standard --save-dev
 ```
 
 ## Update
